@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Example to unit tests using Jest",
   "main": "index.js",
-  "author": "ugioni",
   "license": "ISC",
   "dependencies": {
     "jest": "^30.0.5",
